@@ -1,0 +1,7 @@
+appURL=https://freelance-learn-automation.vercel.app/login
+Browser=Edge
+PageLoadTime=10
+ScriptTimeOut=10
+ImplicitWait=300
+headLess=true
+highLightElement=false
