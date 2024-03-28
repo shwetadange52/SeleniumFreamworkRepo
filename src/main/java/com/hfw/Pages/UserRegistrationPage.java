@@ -19,7 +19,17 @@ public class UserRegistrationPage {
 	By hobbies=By.id("hobbies");
 	
 	
-	public static void createNewUser( String Name) {
+	public static void createNewUser2( int a) {
+		
+		
+		 
+	}
+	public static void createNewUser3( int b) {
+		
+		
+		 
+	}
+	public static void createNewUser5( String Name1) {
 		
 		
 		 
