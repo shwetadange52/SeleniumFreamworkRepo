@@ -29,11 +29,12 @@ public class UserRegistrationPage {
 		
 		 
 	}
-	public static void createNewUser5( String Name1) {
+	public static void git( int b) {
 		
 		
 		 
 	}
+	
 	
 
 }
