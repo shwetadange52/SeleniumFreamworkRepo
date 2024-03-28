@@ -21,7 +21,7 @@ public class UserRegistrationPage {
 	
 	public static void createNewUser( String Name) {
 		
-		Utility.getElement(driver, Name).
+		
 		 
 	}
 	
